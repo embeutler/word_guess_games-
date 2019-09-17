@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Siliguri|Josefin+Sans&display=swap');
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url(background1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(12, 12, 8);
+    font-size: 35px;
+    background-color: rgb(209, 161, 248)
+}
+
+h2 {
+    font-family: 'Hind Siliguri', sans-serif;
+    color: rgb(245, 78, 245);
+    font-size: 20px;
+    background-color: rgb(88, 34, 187)
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: rgb(61, 13, 143);
+    color: blanchedalmond
+}
